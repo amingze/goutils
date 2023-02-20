@@ -1,3 +1,3 @@
-module github.com/amingze/gutils
+module github.com/amingze/goutils
 
 go 1.18
